@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GTU Central Techfest \'16</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="vgec_presents">VGEC Presents</string>
+    <string name="gtu_central_techfest">GTU Central Techfest</string>
+    <string name="vgec_college">VGEC College Photo</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="random_text">Random Text</string>
+    <string name="gtu_logo">GTU Logo</string>
+    <string name="event">Events</string>
+    <string name="tech_events">Technical</string>
+    <string name="nontech_events">Non-Technical</string>
+    <string name="robotics">Robotics</string>
+    <string name="share">Share</string>
+    <string name="share_my_app">Share this app!</string>
+    <string name="map">Map</string>
+    <string name="home">Home</string>
+    <string name="gtu">Gtu</string>
+    <string name="vgec">Vgec</string>
+    <string name="developers">Developers</string>
+    <string name="teaser">Teaser</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="registration">Registration</string>
+    <string name="workshops">Workshops</string>
+    <string name="dates">10th-11th March\n2016</string>
+    <string name="department_logo">Department Logo</string>
+
+    <string-array name="departments">
+        <item>Mechanical</item>
+        <item>CE/IT/MCA</item>
+        <item>Power</item>
+        <item>Electrical-EC-IC</item>
+        <item>Chemical</item>
+        <item>Civil</item>
+        <item>Textile</item>
+    </string-array>
+</resources>

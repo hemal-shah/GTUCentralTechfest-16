@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_department_row"
+    android:layout_width="wrap_content"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="@android:color/holo_blue_dark"
+    android:layout_height="150dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_cardview_department_row"
+            android:layout_width="100dp"
+            android:src="@mipmap/tf_logo"
+            android:contentDescription="@string/department_logo"
+            android:layout_height="100dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_cardview_department"
+            android:text="@string/random_text"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
